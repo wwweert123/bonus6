@@ -10,5 +10,5 @@
 
 int main()
 {
-    // TODO: Determine whether it is guaranteed that all N groups can take seats. 
+    // TODO: Determine whether S can be turned into a palindrome.. 
 }
